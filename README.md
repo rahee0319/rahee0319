@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/rahee0319/rahee0319/blob/main/KakaoTalk_20241122_194018934.png?raw=true" alt="Profile Picture" width="150" />
+</div>
+
 <h1 align="center">Hi 👋, I'm JO YONGBEEN, Student who studies code.</h1>
 <h3 align="center">I am attending art&tech in the 24th of Chung-Ang University. I don't want to be a person who is good at it. I want to be a person who can do it.</h3>
 
